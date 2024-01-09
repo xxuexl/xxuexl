@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I'm a Spanish/Chinese geek that loves cats!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
