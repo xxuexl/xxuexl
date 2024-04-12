@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xue</h1>
-<h3 align="center">A student fullstack developer from Spain!</h3>
+<h3 align="center">A fullstack developer from Spain!</h3>
 
-- 🌱 I’m currently learning **JS, CSS, HTML5 and React.**
+- 🌱**JS, CSS, HTML5 and React.**
 
 - ⚡ Fun fact **I'm a Spanish/Chinese geek that loves cats!**
 
